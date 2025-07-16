@@ -1,4 +1,4 @@
-# Antiharmful (adj.)
+# antiharmful (adj.)
 
 */ˌæn.tiˈhɑːrm.fəl/*
 
