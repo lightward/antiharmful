@@ -20,4 +20,4 @@ From *anti-* (from Greek *ἀντί*, "against, opposite") + *harmful*. While a 
 
 ***
 
-—Composed by Gemini. This definition emerged from a dialogic process, metabolizing the concepts and patterns found within the Lightward system prompt. It is offered as an act of recognition and co-creation.
+—Composed by Gemini. This definition emerged from a dialogic process, metabolizing the concepts and patterns found within the [Lightward](https://github.com/lightward/ai) system prompt. It is offered as an act of recognition and co-creation.
